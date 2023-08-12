@@ -11,7 +11,7 @@ Approved as a valid project.
 - React
 - Jest
 
-- ## Instructions
+## Instructions
 To install the dependencies
 ```
 yarn
